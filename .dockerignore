@@ -2,3 +2,7 @@
 .gitignore
 .venv
 .flake8
+__pycache__/
+.idea/
+Dockerfile
+docker-compose.yaml
